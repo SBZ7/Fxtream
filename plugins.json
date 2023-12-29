@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/ayza/FStream/",
+        "fileSize": 154523,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "disroot.org/ayza/FStream"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "FStream",
+        "description": "Nouveau fournisseur BlackInk (pas besoin de alldebrid)!",
+        "url": "https://raw.githubusercontent.com/user/repo/main/FStream.cs3",
+        "name": "FStream"
+    }
+]
