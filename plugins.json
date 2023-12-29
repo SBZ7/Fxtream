@@ -16,7 +16,7 @@
         "version": 6,
         "internalName": "FStream",
         "description": "Nouveau fournisseur BlackInk (pas besoin de alldebrid)!",
-        "url": "https://raw.githubusercontent.com/user/repo/main/FStream.cs3",
+        "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
         "name": "FStream"
     }
 ]
