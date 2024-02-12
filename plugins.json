@@ -13,7 +13,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 9,
         "internalName": "FStream",
         "description": "Nouveau fournisseur BlackInk (pas besoin de alldebrid)!",
         "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
