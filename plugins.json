@@ -2,8 +2,8 @@
     {
         "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://git.disroot.org/ayza/FStream/",
-        "fileSize": 154523,
+        "repositoryUrl": "https://git.disroot.org/ayza/FStream/src/branch/main/",
+        "fileSize": 167543,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -13,10 +13,10 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "FStream",
-        "description": "2 Nouveau fournisseurs !",
-        "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
+        "description": "3 Nouveaux Fournisseurs ! Rejoignez le groupe de discussion (lien sur le git)",
+        "url": "https://raw.githubusercontent.com/user/repo/main/FStream.cs3",
         "name": "FStream"
     }
 ]
