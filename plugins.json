@@ -13,9 +13,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "FStream",
-        "description": "Mise à jour des liens des fournisseurs",
+        "description": "Nouvelle possiblité de modifier / désactiver les sources. Mise à jour de BlackInk",
         "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
         "name": "FStream"
     }
