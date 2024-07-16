@@ -23,14 +23,14 @@ android {
 
 cloudstream {
         //overrideUrlPrefix("https://git.disroot.org/ayza/FStream/src/branch/main/")
-    buildBranch="builds"
+    buildBranch="main"
     setRepo("ayza", "FStream", "https://git.disroot.org/ayza/FStream/", "https://git.disroot.org/ayza/FStream/raw/branch/%branch%/%filename%")
     language = "fr"
     // All of these properties are optional, you can safely remove them
 
     description = "Simplification de l'ajout des sources, contributions bienvenues !"
     authors = listOf("disroot.org/ayza/FStream")
-    iconUrl = "https://git.disroot.org/ayza/FStream/raw/branch/builds/fstream.png"
+    iconUrl = "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png"
     /**
      * Status int as the following:
      * 0: Down
