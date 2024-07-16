@@ -1,8 +1,0 @@
-{
-    "name": "FStream",
-    "description": "Extension en français",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://git.disroot.org/ayza/FStream/raw/branch/main/plugins.json"
-    ]
-}
