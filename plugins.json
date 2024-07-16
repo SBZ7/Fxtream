@@ -3,7 +3,7 @@
         "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
         "apiVersion": 1,
         "repositoryUrl": "https://git.disroot.org/ayza/FStream/",
-        "fileSize": 162919,
+        "fileSize": 108629,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -13,9 +13,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "FStream",
-        "description": "Nouvelle possiblité de modifier les sources. Nouvelle source SvStream ! Mise à jour de BlackInk.",
+        "description": "Simplification de l'ajout des sources, contributions bienvenues !",
         "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
         "name": "FStream"
     }
