@@ -13,9 +13,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "FStream",
-        "description": "Simplification de l'ajout des sources, contributions bienvenues !",
+        "description": "Ajout de NetflixMirror 1080p (repo CSX extension codée par HORIS), Programmez des sources facilement avec la nouvelle implementation !",
         "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
         "name": "FStream"
     }
