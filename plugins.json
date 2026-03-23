@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://github.com/SBZ7/Fxtream/raw/main/fstream.png",
+        "iconUrl": "https://github.com/SBZ7/Fxtream/raw/builds/fstream.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SBZ7/Fxtream/",
         "fileSize": 108629,
@@ -16,7 +16,7 @@
         "version": 16,
         "internalName": "FStream",
         "description": "Ajout de NetflixMirror 1080p (repo CSX extension codée par HORIS), Programmez des sources facilement avec la nouvelle implementation !",
-        "url": "https://github.com/SBZ7/Fxtream/raw/main/FStream.cs3",
+        "url": "https://github.com/SBZ7/Fxtream/raw/builds/FStream.cs3",
         "name": "FStream"
     }
 ]
