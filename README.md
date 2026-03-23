@@ -1,6 +1,6 @@
 Code: fstream2
 
-Lien: https://git.disroot.org/ayza/FStream/raw/branch/main/repo.json
+Lien: https://github.com/SBZ7/Fxtream/raw/main/repo.json
 
 Code source disponible ! (branche src)
 
