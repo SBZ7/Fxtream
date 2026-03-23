@@ -3,6 +3,6 @@
     "description": "Extension en français",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://github.com/SBZ7/Fxtream/raw/main/plugins.json"
+        "https://github.com/SBZ7/Fxtream/raw/builds/plugins.json"
     ]
 }
